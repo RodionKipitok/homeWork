@@ -30,8 +30,3 @@ const arrData  = data.items;
 };
 
 export default TransactionHistory;
-
-{/*	   <tr className={css.line} key={item.id}>
-      <td className={css.cell}>{item.type}</td>
-      <td className={css.cell}>{item.amount}</td>
-      <td className= {css.cellCurrency}>{item.currency}</td>*/}
