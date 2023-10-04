@@ -16,8 +16,7 @@
   
 	width: 90px;
 	height: 90px;
-	margin-top: 31px;
-	margin-right: 38px;
+   margin: 10px auto;
 	padding: 0;
 	border: 1px solid black;
 	border-radius: 50%;
@@ -26,7 +25,7 @@
 
 
 .name {
-
+   padding: 5px;
 	font-size: 20px;
 	color: black;	
 	
@@ -38,7 +37,7 @@
    font-size: 15px;
 	color: gray;
 	margin:-13px 1em -7px auto;
-	padding: 0;
+	padding: 10px;
 }
 
 
@@ -51,12 +50,11 @@
 
 .list{
 	display: flex;
-	justify-content: center;
 	justify-content: space-around;
 	list-style: none;
-   margin-top: 39px;
+   margin-top: 81px;
 	border-top: 1px solid gray;
-	padding: 0;
+
 }
 
 .listItem{
