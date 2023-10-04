@@ -1,0 +1,54 @@
+.table{
+	width: 800px;
+	margin: 0 auto;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	border-collapse: collapse;
+	border: 1px solid gray;
+	
+ }
+
+ .headTitle {
+	padding: 10px;
+	text-align: center;
+	color: white;
+	background-color: rgb(102, 102, 212);
+	border-right: 1px solid white;
+
+ }
+
+ .headTitleCurrence{
+	padding: 10px;
+	text-align: center;
+	color: white;
+	background-color: rgb(102, 102, 212);
+
+ }
+
+ .line{
+	border: 1px solid gray;
+	border-radius: 2px;
+	
+
+ }
+
+
+ .cell {
+	padding: 10px;
+	text-align: center;
+	border-right: 1px solid rgb(95, 91, 91);
+	
+ }
+
+ .cellCurrency{
+	text-align: center;
+ }
+
+
+ .table tbody tr:nth-child(odd){
+	background: #fff;
+}
+.table tbody tr:nth-child(even){
+	background: #F7F7F7;
+}
+
+

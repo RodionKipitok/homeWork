@@ -1,0 +1,69 @@
+
+
+.statistics{
+	width: 400px;
+	margin: auto;
+	
+}
+
+
+
+.title{
+	
+	text-align: center;
+	color: rgb(165, 162, 162);
+	background-color: white;
+	border: 1px solid black;
+	margin: 0;
+	padding: 12px;
+	
+}
+
+.statList{
+	display: flex;
+	justify-content: space-around;
+	margin: 0;
+	padding: 0;
+	
+}
+
+
+
+
+
+
+.item{
+	display: flex;
+	flex-direction: column;
+	margin: 0;
+	padding: 23px;
+	border: 1px solid black;
+	
+	
+}
+
+.percentage{
+	margin-left: 7px;
+	font-size: 20px;
+}
+
+
+/* Ваши стили для разных цветов */
+
+
+.colorPink {
+	background-color: rgb(221, 170, 204);
+ }
+ 
+ .colorBlue {
+	background-color: blue;
+ }
+ 
+ .colorGreen {
+	background-color: green;
+ }
+ 
+ .colorPurple{
+
+	background-color: purple;
+ }
