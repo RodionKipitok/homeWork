@@ -25,5 +25,3 @@ function FriendsList(friends) {
 };
 
 export default FriendsList;
-
-console.log(NaN === NaN);
